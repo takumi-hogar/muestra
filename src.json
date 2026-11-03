@@ -144,6 +144,16 @@
         "icon": "palette",
         "price": 50000,
         "defaultActive": false
+      },
+            {
+        "id": "combo",
+        "name": "Respaldo & mesas de luz",
+        "shortName": "Combo",
+        "category": "Agregar respaldo y mesitas de luz",
+        "description": "Incluir Respaldo y mesitas de luz.",
+        "icon": "palette",
+        "price": 50000,
+        "defaultActive": false
       }
     ]
   }
